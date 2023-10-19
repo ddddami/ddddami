@@ -1,5 +1,5 @@
 ### Hi, I'm Damilola👋🏽👩🏾‍💻
-![octocat](https://github.com/ddddami/ddddami/assets/82976159/d82720a2-8100-441e-bd5c-54d8d125452c)
+![octo](https://github.com/ddddami/ddddami/assets/82976159/98ef782e-f332-4113-b581-46651d62f30c)
 
 Full-stack developer specializing in building seamless web experiences.
 
