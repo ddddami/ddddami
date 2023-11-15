@@ -1,4 +1,4 @@
-### Hi, I'm Damilola👋🏽👩🏾‍💻
+### Hii, I'm Damilola👋🏽👩🏾‍💻
 ![octo](https://github.com/ddddami/ddddami/assets/82976159/98ef782e-f332-4113-b581-46651d62f30c)
 
 Full-stack developer specializing in building seamless web experiences.
@@ -9,8 +9,8 @@ Full-stack developer specializing in building seamless web experiences.
 
 - 🌱 I’m currently learning Typescript 
 Skills: 
-- 🔨 Backend: Python, Django
-- 🎨 Frontend: JavaScript, React, HTML, CSS
+- 🔨 Backend: Python, Django, PHP, Laravel
+- 🎨 Frontend: JavaScript, Typescript, React, HTML, CSS, Vue.js
 
 ## Find me around the web:
 - Sharing updates on [Twitter](https;//twitter.com/ddddami)
